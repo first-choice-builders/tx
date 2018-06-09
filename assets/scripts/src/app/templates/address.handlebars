@@ -1,0 +1,20 @@
+{{#everyNth address 2}}
+    {{#if isModZero}}
+        <div class="left-half">
+    {{else}}
+        <div class="right-half">
+    {{/if}}
+        <div class="vRhythm_1x">
+            <table border="0" cellspacing="0" cellpadding="2" width="95%" align="center">
+                <tbody>
+                    <tr>
+                        <td width="50%" align="center" class="std"><strong>{{phone}}</strong></td>
+                    </tr>
+                    <tr>
+                        <td width="50%" align="center" class="std"><b>{{line1}}</b><br /><b>{{line2}}</b><br /><b>{{city}}, {{state}} {{postal}}</b></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+{{/everyNth}}

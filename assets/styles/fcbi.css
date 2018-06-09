@@ -1,0 +1,69 @@
+/* Begin legacy styles */
+
+a              { font-family:Verdana, Arial, Helvetica, sans-serif; color: #333333; text-decoration: underline; font-size: 10px }
+a:hover           { font-family:Verdana, Arial, Helvetica, sans-serif; color: #000000; text-decoration: underline; font-size:10px }
+a#copyright          { color: #CCCCCC; text-decoration: underline; font-size: 9px }
+a#copyright:hover    { color: #000000; text-decoration: underline; font-size:9px }
+a#menuitem {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight: bold; color:#CCCCCC }
+a#menuitem:hover {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight: bold; color:#FFFFFF }
+a#menuhead {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight: bold; color:#35689A }
+a#menuhead:hover {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight: bold; color:#35689A }
+.frmctl {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; color:#333333}
+.frmctlCheckbox
+{
+    FONT-SIZE: 9px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold;
+}
+h1 {font-family:Verdana, Arial, Helvetica, sans-serif; margin-height:2px}
+h2 {font-family:Verdana, Arial, Helvetica, sans-serif}
+h3 {font-family:Verdana, Arial, Helvetica, sans-serif}
+h4 {font-family:Verdana, Arial, Helvetica, sans-serif}
+h5 {font-family:Verdana, Arial, Helvetica, sans-serif}
+
+p {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px}
+p#title {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#35689A}
+p#subtitle {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold}
+p#subtitle2 {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold}
+p#copyright {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; color: #FFFFFF;}
+ol {font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px
+}
+ul {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;
+	list-style-position: outside;
+	list-style-type: square;
+}
+
+.std {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px}
+.title {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#990000}
+.subtitle {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold}
+.warning {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#CC0000; font-weight: bold;}
+.title {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold}
+.subtitle {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold}
+.deactivated {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#CC0000; font-style: italic;}
+
+td {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px}
+td.list {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px}
+td.detail {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px}
+td.detailtitle {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight: bold;}
+td#Subhead {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight: bold; color:#35689A }
+td#menuhead {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight: bold; color:#35689A }
+
+.style1 {color: #000000}
+.style3 {font-size: 9px}
+.style4 {font-size: 11px}
+
+/* End legacy styles */
+
+.left-half {
+    float: left;
+    width: 50%;
+}
+
+.right-half {
+    float: right;
+    width: 50%;
+}
+
+.vRhythm_1x {
+    margin-bottom: 12px;
+}
